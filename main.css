@@ -1,0 +1,35 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.name {
+    font-size: 50px;
+}
+.main-block {
+    border: 5px solid black;
+    max-width: 1200px;
+    text-align: center;
+    font-size: 30px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+#main-number {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 80px;
+}
+#button_up {
+    text-decoration: none;
+    color: green;
+    font-size: 90px;
+}
+#button_reset {
+    text-decoration: none;
+    color: white;
+    font-size: 60px;
+}
+#button_down {
+    text-decoration: none;
+    color: red;
+    font-size: 100px;
+}
